@@ -2,3 +2,5 @@
 
 2. [镜像烧录工具etcher](https://etcher.io/)
 3. [DuerOS](https://dueros.baidu.com)
+4. [小度之家app iOS](https://www.pgyer.com/mNTc)
+5. [小度之家app Android](https://www.pgyer.com/mldS)
